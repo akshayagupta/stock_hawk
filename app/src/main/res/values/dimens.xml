@@ -6,4 +6,9 @@
   <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
          https://developer.android.com/design/patterns/navigation-drawer.html -->
   <dimen name="navigation_drawer_width">240dp</dimen>
+
+
+  <!-- Today Widget -->
+  <dimen name="stock_widget_provider_width">40dp</dimen>
+  <dimen name="stock_provider_widget_provider_default_height">40dp</dimen>
 </resources>
